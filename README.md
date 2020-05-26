@@ -12,7 +12,8 @@ Follow these steps
 ```
 Python 2.7.17
 ```
-4. Created account [Ubidots](www.ubidots.com) to show a dashboard with captured values and execute API ( post ) of variable.
+
+4. Created account [Ubidots](http://ubidots.com/) to show a dashboard with captured values and execute API ( post ) of variable.
 
 ## Create Dashboard
 
